@@ -22,3 +22,5 @@ Group project for Hospital Management
 This project demonstrates a complete software engineering workflow from requirements to design and project management.
 ## Database Design
 The system uses a relational database to manage patients, doctors, appointments, medical records, and billing.
+## Agile Methodology
+The project was managed using Scrum with Jira, including epics, sprints, and task boards.
