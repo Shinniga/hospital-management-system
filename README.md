@@ -18,3 +18,5 @@ Group project for Hospital Management
 - Jira (Scrum Project Management)
 - GitHub (Version Control)
 - draw.io (UML Diagrams)
+## Conclusion
+This project demonstrates a complete software engineering workflow from requirements to design and project management.
