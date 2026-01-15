@@ -12,3 +12,9 @@ Group project for Hospital Management
 8.RICHARD LOIBASH- E020-01-1683/2022 <br>
 9.LEVIN VINCENT- E020-01-0882/2023 <br>
 10.KADICHO FREDRICK- E020-01-1437/2023 <br>
+
+## Tools Used
+- MySQL / MariaDB
+- Jira (Scrum Project Management)
+- GitHub (Version Control)
+- draw.io (UML Diagrams)
