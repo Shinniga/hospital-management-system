@@ -24,3 +24,5 @@ This project demonstrates a complete software engineering workflow from requirem
 The system uses a relational database to manage patients, doctors, appointments, medical records, and billing.
 ## Agile Methodology
 The project was managed using Scrum with Jira, including epics, sprints, and task boards.
+## UML Diagrams
+The project includes Use Case, Class, Sequence, and Activity diagrams to model system behavior and structure.
