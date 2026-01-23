@@ -34,3 +34,7 @@ The project is organized into logical sections to make it easy to understand and
 - `/uml` – Holds UML diagrams including Use Case, Class, Sequence, and Activity diagrams  
 - `/docs` – Additional documentation related to the system  
 - `README.md` – Overview of the Hospital Management System project
+- 
+   **System Scope**
+  System Scope
+The system focuses on core hospital operations such as patient management, doctor management, appointment scheduling, medical record storage, and billing. Features such as pharmacy management, insurance processing, and mobile application support are outside the scope of this project.
