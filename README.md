@@ -1,4 +1,4 @@
-# hospital-management-system
+## hospital-management-system
 Group project for Hospital Management
 
 ## Group members
