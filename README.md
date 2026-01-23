@@ -26,3 +26,4 @@ The system uses a relational database to manage patients, doctors, appointments,
 The project followed the Scrum framework, using Jira to manage epics, sprints, and task boards. This approach enabled clear backlog prioritization, improved visibility into progress, and effective collaboration across the team through regular sprint planning, reviews, and tracking. 
 ## UML Diagrams
 The project includes Use Case, Class, Sequence, and Activity diagrams to model system behavior and structure.
+.
